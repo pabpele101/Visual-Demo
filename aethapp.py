@@ -513,7 +513,7 @@ Note date spikes, weekend vs weekday clusters, improving or declining trend. If 
                         "content": prompt
                     }
                 ],
-                temperature=0.3,
+                temperature=0.5,
                 max_tokens=4000,
             )
 
